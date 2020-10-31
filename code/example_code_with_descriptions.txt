@@ -1,0 +1,132 @@
+// Screen #1:
+"e00" 			// Select min brightness
+"a"   			// Select all
+"e0f" 			// Select max brightness
+"s20" 			// Select LED on row 3 on column 1
+"s30" 			// Select LED on row 4 on column 1
+"s40" 			// Select LED on row 5 on column 1
+"s50" 			// Select LED on row 6 on column 1
+"s60" 			// Select LED on row 7 on column 1
+"s70" 			// Select LED on row 8 on column 1
+"s80" 			// Select LED on row 9 on column 1
+"sa0" 			// Select LED on row 11 on column 1
+"s90" 			// Select LED on row 10 on column 1
+"sb0" 			// Select LED on row 12 on column 1
+"sc0" 			// Select LED on row 13 on column 1
+"sc1" 			// Select LED on row 13 on column 2
+"sc2" 			// Select LED on row 13 on column 3
+"sc3" 			// Select LED on row 13 on column 4
+"sc5" 			// Select LED on row 13 on column 6
+"sb5" 			// Select LED on row 12 on column 6
+"sa5" 			// Select LED on row 11 on column 6
+"s95" 			// Select LED on row 10 on column 6
+"s85" 			// Select LED on row 9 on column 6
+"s75" 			// Select LED on row 8 on column 6
+"s65" 			// Select LED on row 7 on column 6
+"s55" 			// Select LED on row 6 on column 6
+"s45" 			// Select LED on row 5 on column 6
+"s35" 			// Select LED on row 4 on column 6
+"s25" 			// Select LED on row 3 on column 6
+"s26" 			// Select LED on row 3 on column 7
+"s76" 			// Select LED on row 8 on column 7
+"sc6" 			// Select LED on row 13 on column 7
+"s27" 			// Select LED on row 3 on column 8
+"sc7" 			// Select LED on row 13 on column 8
+"s77" 			// Select LED on row 8 on column 8
+"s28" 			// Select LED on row 3 on column 9
+"sc8" 			// Select LED on row 13 on column 9
+"s78" 			// Select LED on row 8 on column 9
+"s29" 			// Select LED on row 3 on column 10
+"sc9" 			// Select LED on row 13 on column 10
+"s79" 			// Select LED on row 8 on column 10
+"s2b" 			// Select LED on row 3 on column 12
+"s6b" 			// Select LED on row 7 on column 12
+"s3b" 			// Select LED on row 4 on column 12
+"s4b" 			// Select LED on row 5 on column 12
+"s5b" 			// Select LED on row 6 on column 12
+"s7b" 			// Select LED on row 8 on column 12
+"s8b" 			// Select LED on row 9 on column 12
+"s9b" 			// Select LED on row 10 on column 12
+"sab" 			// Select LED on row 11 on column 12
+"sbb" 			// Select LED on row 12 on column 12
+"scb" 			// Select LED on row 13 on column 12
+"s2c" 			// Select LED on row 3 on column 13
+"scc" 			// Select LED on row 13 on column 13
+"s3d" 			// Select LED on row 4 on column 14
+"sbd" 			// Select LED on row 12 on column 14
+"s4e" 			// Select LED on row 5 on column 15
+"sae" 			// Select LED on row 11 on column 15
+"s5f" 			// Select LED on row 6 on column 16
+"s7f" 			// Select LED on row 8 on column 16
+"s6f" 			// Select LED on row 7 on column 16
+"s8f" 			// Select LED on row 9 on column 16
+"s9f" 			// Select LED on row 10 on column 16
+"wffff"			// Stop here
+"x"   			// Next screen
+
+
+// Screen #2:
+"e00" 			// Select min brightness
+"a"   			// Select all
+"e0f" 			// Select max brightness
+"s20" 			// Select LED on row 3 on column 1
+"s30" 			// Select LED on row 4 on column 1
+"s40" 			// Select LED on row 5 on column 1
+"s50" 			// Select LED on row 6 on column 1
+"s60" 			// Select LED on row 7 on column 1
+"s70" 			// Select LED on row 8 on column 1
+"s80" 			// Select LED on row 9 on column 1
+"sa0" 			// Select LED on row 11 on column 1
+"s90" 			// Select LED on row 10 on column 1
+"sb0" 			// Select LED on row 12 on column 1
+"sc0" 			// Select LED on row 13 on column 1
+"sc1" 			// Select LED on row 13 on column 2
+"sc2" 			// Select LED on row 13 on column 3
+"sc3" 			// Select LED on row 13 on column 4
+"sc5" 			// Select LED on row 13 on column 6
+"sb5" 			// Select LED on row 12 on column 6
+"sa5" 			// Select LED on row 11 on column 6
+"s95" 			// Select LED on row 10 on column 6
+"s85" 			// Select LED on row 9 on column 6
+"s75" 			// Select LED on row 8 on column 6
+"s65" 			// Select LED on row 7 on column 6
+"s55" 			// Select LED on row 6 on column 6
+"s45" 			// Select LED on row 5 on column 6
+"s35" 			// Select LED on row 4 on column 6
+"s25" 			// Select LED on row 3 on column 6
+"s26" 			// Select LED on row 3 on column 7
+"s76" 			// Select LED on row 8 on column 7
+"sc6" 			// Select LED on row 13 on column 7
+"s27" 			// Select LED on row 3 on column 8
+"sc7" 			// Select LED on row 13 on column 8
+"s77" 			// Select LED on row 8 on column 8
+"s28" 			// Select LED on row 3 on column 9
+"sc8" 			// Select LED on row 13 on column 9
+"s78" 			// Select LED on row 8 on column 9
+"s29" 			// Select LED on row 3 on column 10
+"sc9" 			// Select LED on row 13 on column 10
+"s79" 			// Select LED on row 8 on column 10
+"s2b" 			// Select LED on row 3 on column 12
+"s6b" 			// Select LED on row 7 on column 12
+"s3b" 			// Select LED on row 4 on column 12
+"s4b" 			// Select LED on row 5 on column 12
+"s5b" 			// Select LED on row 6 on column 12
+"s7b" 			// Select LED on row 8 on column 12
+"s8b" 			// Select LED on row 9 on column 12
+"s9b" 			// Select LED on row 10 on column 12
+"sab" 			// Select LED on row 11 on column 12
+"sbb" 			// Select LED on row 12 on column 12
+"scb" 			// Select LED on row 13 on column 12
+"s2c" 			// Select LED on row 3 on column 13
+"scc" 			// Select LED on row 13 on column 13
+"s3d" 			// Select LED on row 4 on column 14
+"sbd" 			// Select LED on row 12 on column 14
+"s4e" 			// Select LED on row 5 on column 15
+"sae" 			// Select LED on row 11 on column 15
+"s5f" 			// Select LED on row 6 on column 16
+"s7f" 			// Select LED on row 8 on column 16
+"s6f" 			// Select LED on row 7 on column 16
+"s8f" 			// Select LED on row 9 on column 16
+"s9f" 			// Select LED on row 10 on column 16
+"wffff"			// Stop here
+
